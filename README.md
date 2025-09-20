@@ -46,4 +46,11 @@ Desarrollar un sistema de apoyo al diagnóstico basado en inteligencia artificia
 
 ## 📌 Notas
 - El PDF se puede visualizar directamente en GitHub.  
-- El Word se descargará al hacer clic.  
+- El Word se descargará al hacer clic.
+  
+## 📊 Dataset
+
+El dataset utilizado en este proyecto se encuentra disponible en Google Drive:
+
+👉 [Acceder al Dataset en Google Drive](https://drive.google.com/drive/folders/1h2yAXjCdstWkGrOc4W0xrxCCCYoj1P8w?usp=sharing)
+

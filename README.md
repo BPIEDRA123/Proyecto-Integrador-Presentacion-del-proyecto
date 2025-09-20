@@ -1,7 +1,7 @@
 # 📚 Proyecto Integrador – Maestría en Inteligencia Artificial
 
 **Título del Proyecto:**  
-Sistema de apoyo al diagnóstico basado en inteligencia artificial para la detección temprana de cáncer de tiroides y mama mediante ecografía.
+Sistema de apoyo al diagnóstico basado en inteligencia artificial para la detección temprana de cáncer de tiroides mediante ecografía.
 
 ---
 

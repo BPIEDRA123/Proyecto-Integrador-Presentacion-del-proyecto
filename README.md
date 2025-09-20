@@ -40,7 +40,7 @@ Sistema de apoyo al diagnóstico basado en inteligencia artificial para la detec
 ---
 
 ## 🏆 Objetivo General
-Desarrollar un sistema de apoyo al diagnóstico basado en inteligencia artificial para la detección temprana de cáncer de tiroides y mama mediante ecografía, optimizado para hospitales con recursos limitados.
+Desarrollar un sistema de apoyo al diagnóstico basado en inteligencia artificial para la detección temprana de cáncer de tiroides mediante ecografía, optimizado para hospitales con recursos limitados.
 
 ---
 

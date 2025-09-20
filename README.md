@@ -1,11 +1,11 @@
-# 📚 Proyecto Integrador – Maestría en Inteligencia Artificial
+#  Proyecto Integrador – Maestría en Inteligencia Artificial
 
 **Título del Proyecto:**  
 Sistema de apoyo al diagnóstico basado en inteligencia artificial para la detección temprana de cáncer de tiroides mediante ecografía.
 
 ---
 
-## 👥 Autores
+##  Autores
 - GRUPO 2
 - Byron Piedra *(Product Owner / Scrum Master)*  
 - Christian García *(Desarrollador / Tester)*  
@@ -16,14 +16,14 @@ Sistema de apoyo al diagnóstico basado en inteligencia artificial para la detec
 
 ---
 
-## 📄 Documentación
+##  Documentación
 
-- 📥 [Descargar Tesis en Word](./Proyecto%20Integrador.docx)  
-- 📖 [Ver Tesis en PDF](./Proyecto%20Integrador.pdf)  
+-  [Descargar Tesis en Word](./Proyecto%20Integrador.docx)  
+-  [Ver Tesis en PDF](./Proyecto%20Integrador.pdf)  
 
 ---
 
-## 📑 Contenido del Proyecto
+##  Contenido del Proyecto
 - **Revisión Sistemática** de 20 artículos recientes (IEEE, ACM, Nature, NeurIPS, ICML, ICLR).  
 - **Análisis comparativo** de enfoques (CNN, Transfer Learning, Modelos híbridos, XAI, Multimodal).  
 - **Gap identificado:** falta de modelos robustos y explicables en entornos clínicos reales.  
@@ -40,18 +40,18 @@ Sistema de apoyo al diagnóstico basado en inteligencia artificial para la detec
 
 ---
 
-## 🏆 Objetivo General
+##  Objetivo General
 Desarrollar un sistema de apoyo al diagnóstico basado en inteligencia artificial para la detección temprana de cáncer de tiroides mediante ecografía, optimizado para hospitales con recursos limitados.
 
 ---
 
-## 📌 Notas
+##  Notas
 - El PDF se puede visualizar directamente en GitHub.  
 - El Word se descargará al hacer clic.
   
-## 📊 Dataset
+##  Dataset
 
 El dataset utilizado en este proyecto se encuentra disponible en Google Drive:
 
-👉 [Acceder al Dataset en Google Drive](https://drive.google.com/drive/folders/1h2yAXjCdstWkGrOc4W0xrxCCCYoj1P8w?usp=sharing)
+ [Acceder al Dataset en Google Drive](https://drive.google.com/drive/folders/1h2yAXjCdstWkGrOc4W0xrxCCCYoj1P8w?usp=sharing)
 

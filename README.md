@@ -6,6 +6,7 @@ Sistema de apoyo al diagnóstico basado en inteligencia artificial para la detec
 ---
 
 ## 👥 Autores
+- GRUPO 2
 - Byron Piedra *(Product Owner / Scrum Master)*  
 - Christian García *(Desarrollador / Tester)*  
 
